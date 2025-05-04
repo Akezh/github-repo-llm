@@ -123,3 +123,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Groq for LLM support
 - Tavus for video persona capabilities
 - Vapi for voice chat functionality
+
+## Llama Lense team
+
+- Akezhan Rakishev
+- Sagar Bansal
+- Dheeraj Gandhi
