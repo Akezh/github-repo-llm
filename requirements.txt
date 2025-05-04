@@ -1,0 +1,13 @@
+requests
+python-dotenv
+PyGithub
+networkx
+radon
+pandas
+matplotlib
+neo4j
+google-generativeai
+fastapi
+uvicorn
+dotenv
+openai>=1.0.0
